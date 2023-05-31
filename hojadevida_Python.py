@@ -1,3 +1,7 @@
+#Sarita_Acosta
+#Hoja_de_vida
+#IEM_ESCUELA_NORMAL_PASTO
+#11_1
 # Datos personales
 nombre = "Juan Pérez"
 direccion = "Calle Principal 123, Ciudad"
